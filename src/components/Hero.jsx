@@ -9,7 +9,7 @@ const Hero = () => {
             <nav className='flex justify-between items-center w-full mb-6 pt-2'>
                 <img src={ai} alt='logo' className='w-36 object-contain' />
                 <div className="relative inline-block">
-                    <p>Article Summarizer</p>
+                    <p>Article Summarizer </p>
                 </div>
             </nav>
 
